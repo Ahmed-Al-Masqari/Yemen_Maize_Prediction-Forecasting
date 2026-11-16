@@ -123,7 +123,7 @@
 ## 📁 5. هيكلية المستودع (Project Structure)
 
 ```bash
-Yemen_Maize_Prediction_Final/
+Yemen_Maize_Prediction-Forecasting/
 │
 ├── 01_Raw_Data/              # البيانات الأولية وسجلات FAOSTAT وبيانات الأمطار
 │   ├── Yemen_Maize_FAOSTAT_Raw_1961_2024.csv
