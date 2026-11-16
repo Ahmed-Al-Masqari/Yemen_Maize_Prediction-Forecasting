@@ -167,7 +167,7 @@ Yemen_Maize_Prediction_Final/
 ```bash
 # 1. استنساخ المستودع
 git clone https://github.com/Ahmed-Al-Masqari/yemen-maize-production-forecasting.git
-cd Yemen_Maize_Prediction_forecasting
+cd Yemen_Maize_Prediction-forecasting
 
 # 2. إنشاء بيئة عمل افتراضية (اختياري)
 python -m venv venv
